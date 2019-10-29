@@ -1,13 +1,18 @@
 body{
-         background: red;
+
+         background: greenyellow;
          width: 970px;
         margin: 0 auto;
-}
-
-h1 {
-     font-size: 65px;
 
 }
+
+
+h1{
+    font-size: 100px;
+
+}
+
+
  
 p {  
     font-size: 45px;
